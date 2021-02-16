@@ -18,8 +18,6 @@ com o propósito de entregar soluções completas para web.</p>
 
 <br><br>
 
-<br>
-
 <div align="center">
 
 
