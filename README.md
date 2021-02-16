@@ -1,5 +1,5 @@
 
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%" align="right" >
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%" align="right" >
 
 
 ### Eaí galera 👋
