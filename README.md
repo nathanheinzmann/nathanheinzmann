@@ -16,10 +16,16 @@ com o propósito de entregar soluções completas para web.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathanhph@gmail.com)](mailto:nathanhph@gmail.com)
 </div>
 
-
 <br><br>
 
 <br>
+
+<div align="right">
+
+   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nathanheinzmann&show_icons=true&theme=radical)
+
+</div>
+
 
 ***
 
