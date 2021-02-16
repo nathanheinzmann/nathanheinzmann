@@ -16,7 +16,7 @@ com o propósito de entregar soluções completas para web.</p>
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
