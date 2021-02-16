@@ -26,9 +26,6 @@ com o propósito de entregar soluções completas para web.</p>
 
 
 ***
-
-<h1 align="center"> - Languages and Tools... </h1>
-
 <p align="center">
   
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/ angular.svg" alt="angular" style="vertical-align:top; margin:4px">
