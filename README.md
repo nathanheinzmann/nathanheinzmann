@@ -14,9 +14,13 @@ com o propósito de entregar soluções completas para web.</p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-heinzmann-616216141/)](https://www.linkedin.com/in/nathan-heinzmann-616216141/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathanhph@gmail.com)](mailto:nathanhph@gmail.com)
 
+</div>
+
 <br><br>
 
 <br>
+
+<div align="center">
 
 
    ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nathanheinzmann&show_icons=true&theme=radical)
