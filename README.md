@@ -3,10 +3,9 @@
 
 
 ### Eaí galera 👋
-<p align="justify">Sou estudante do curso de Ciência da Computação na URI Santo Ângelo.
-Atualmente estou estudando Angular + HTML5 + CSS3 no curso da
+<p align="justify"Sou estudante do curso de Ciência da Computação na URI Santo Ângelo. Atualmente estou estudando programação front-end em Angular + HTML5 + CSS3 no curso da
 <a href="https://github.com/loiane">Loiane</a>
-com o propósito de entregar soluções completas para web.</p>
+com o propósito de entregar soluções para web.</p>
 
 
 <div align="left">
