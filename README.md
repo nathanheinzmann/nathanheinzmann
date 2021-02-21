@@ -2,10 +2,8 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%" align="right" >
 
 
-### Eaí galera 👋
-<p align="justify">Sou estudante do curso de Ciência da Computação na URI Santo Ângelo. Atualmente estou estudando programação front-end em Angular + HTML5 + CSS3 no curso da
-<a href="https://github.com/loiane">Loiane</a>
-com o propósito de entregar soluções para web.</p>
+### What's up 👋
+<p align="justify">I am a student of Computer Science at URI Santo Ângelo. Currently, I am studying front-end programming in React + ReactNative based on<a href="https://https://rocketseat.com.br/">Rockeseat</a> studies in order to deliver solutions for the web.</p>
 
 
 <div align="left">
