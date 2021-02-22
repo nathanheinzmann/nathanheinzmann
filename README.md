@@ -3,7 +3,7 @@
 
 
 ### What's up 👋
-<p align="justify">I am a student of Computer Science at URI Santo Ângelo. Currently, I am studying front-end programming in React + ReactNative based on <a href="https://https://rocketseat.com.br/">Rockeseat</a> studies in order to deliver solutions for the web.</p>
+<p align="justify">I am a student of Computer Science at URI Santo Ângelo. Currently, I am studying front-end programming in React + ReactNative based on <a href="https://rocketseat.com.br/">Rockeseat</a> studies in order to deliver solutions for the web.</p>
 
 
 <div align="left">
