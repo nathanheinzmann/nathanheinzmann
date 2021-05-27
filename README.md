@@ -38,9 +38,6 @@
   <a href="https://vercel.com/">
     <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.netlify.com/">
-    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=00C7B7&logo=netlify&logoColor=white" />
-  </a>
 </div>
   
   ### Contact
