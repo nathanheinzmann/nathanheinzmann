@@ -6,12 +6,8 @@
 
 </div><br>
 
-<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%" align="right" >
   
-  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nathanheinzmann&show_icons=true&theme=radical)
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%" align="right" >
-  
-</div>
 
 <div align="left">
   
