@@ -1,5 +1,5 @@
 ### hi guys
-I am a graduated in Computer Science, currently working as front-end developer at HostGator
+I am a graduated in Computer Science, currently working as front-end developer at Mangue
 
 <hr>
 
