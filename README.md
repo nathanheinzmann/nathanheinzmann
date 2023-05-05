@@ -1,22 +1,23 @@
-### hi guys
-I am a graduated in Computer Science, currently working as front-end developer at Mangue
+# Hi there 👋
 
-<hr>
+I'm a frontend developer with a Bachelor's Degree in Computer Science and expertise in **TypeScript** and **React**. I'm passionate about creating responsive, user-friendly web applications that provide an outstanding user experience. 
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%" align="right" >
-  
-### Technologies
-<a href="https://pt-br.reactjs.org/">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=white" />
-</a>
+As a continuous learner, I stay up-to-date with the latest trends and developments in frontend development. I'm always looking to expand my skills and knowledge base.
 
-### Contact
-<a href="https://www.linkedin.com/in/nathanheinzmann">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nathanhph@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-c14438?.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+## Skills ⚡
+
+- Strong proficiency in **TypeScript** and **React**
+- Experience with unit testing frameworks, such as **Jest** and **React Testing Library**
+- Proficient in application monitoring using tools such as **Datadog**
+- Familiarity with component libraries and design systems, such as **Styled Components**
+- Knowledgeable in **Storybook** for building and showcasing UI components
+
+## Projects 💻
+
+I've had the privilege of working on some exciting projects throughout my career as a frontend developer, including the HostGator websites.
+
+I'm currently working on a challenging project at Mangue where I am creating new products from scratch. It's a great opportunity to showcase my creativity and technical skills.
+
+## Get in touch 📫
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/nathanheinzmann) or [GitHub](https://github.com/nathanheinzmann) and collaborate on some amazing projects together!
